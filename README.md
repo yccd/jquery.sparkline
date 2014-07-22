@@ -12,6 +12,13 @@ for IE support).
 See the [jQuery Sparkline project page](http://omnipotent.net/jquery.sparkline/)
 for live examples and documentation.
 
+## Build
+
+```
+npm install uglify-js -g
+make
+```
+
 ## License
 
 Released under the New BSD License
