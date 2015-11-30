@@ -1,3 +1,4 @@
+$.fn.sparkline = null;
 /**
 *
 * jquery.sparkline.js
